@@ -4,7 +4,7 @@
 
 I'm Ezequiel Cinalli a developer from Tres arroyos, Argentina.
 
-I am a student of the university technical degree in computer application development at [Unicen](https://web.exa.unicen.edu.ar/es/estudios/carreras-pregrado/tudai). (2nd year)
+I'm a student of the university technical degree in computer application development at [Unicen](https://web.exa.unicen.edu.ar/es/estudios/carreras-pregrado/tudai). (2nd year)
 
 I love programming, open source and linux operating systems, currently user of ubuntu and manjaro. I am self-taught, I like to spend time learning new technologies
 
@@ -14,7 +14,7 @@ Frontend: html - css - js - angular - vue - svelte
 
 Backend: php - laravel - nodejs - expressjs
 
-Bases de datos sql (mysql, postgres) y nosql(mongodb)
+Databases sql (mysql, postgres) and nosql(mongodb)
 
 ### Some of my learning proyects with live preview
 
